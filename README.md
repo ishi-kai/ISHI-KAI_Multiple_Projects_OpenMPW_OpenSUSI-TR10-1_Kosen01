@@ -22,10 +22,14 @@
 
 ### 1bit-CPU回路
 - ![仙台高専の佐々木先生のレイアウト画面](/1bitCPU/images/1bit_cpu.png)
-- [仙台高専の佐々木先生のの回路図](/1bitCPU/1bit_cpu.sch)
-- [仙台高専の佐々木先生ののレイアウト](/1bitCPU/1bit_cpu.gds)
+- [仙台高専の佐々木先生の回路図](/1bitCPU/1bit_cpu.sch)
+- [仙台高専の佐々木先生のレイアウト](/1bitCPU/1bit_cpu.gds)
 
 ### インバータ回路
-- [仙台高専の佐々木先生のの回路図](/inverter/inverter.sch)
-- [仙台高専の佐々木先生ののレイアウト](/inverter/inverter.gds)
+- [仙台高専の佐々木先生の回路図](/inverter/inverter.sch)
+- [仙台高専の佐々木先生のレイアウト](/inverter/inverter.gds)
+
+### 二相クロック発生回路
+- [仙台高専の佐々木先生と学生の回路図](/2phase_CLK/unovlp.sch)
+- [仙台高専の佐々木先生と学生のレイアウト](/2phase_CLK/unovlp.gds)
 
